@@ -1,1 +1,1 @@
-# Logistic-Regresion-from-scratch# Machine-Reading-Q-A
+# Machine-Reading-Q-A
